@@ -12,4 +12,4 @@ Foxy allows you to create files with the translation of the text strings that yo
 
 ## Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble? Check out our [documentation](https://github.com/foxyframework/foxy/wiki).
