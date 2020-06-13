@@ -6,7 +6,7 @@ logo: icon264.png
 
 show_downloads: true
 github: https://github.com/foxyframework/foxy
-zip_url: https://github.com/foxyframework/foxy/archive/master.zip
-tar_url: https://github.com/foxyframework/foxy/archive/master.tar.gz
+zip_url: https://github.com/foxyframework/foxy/zipball/master
+tar_url: https://github.com/foxyframework/foxy/tarball/master
 
 description: Small php framework for rapid web development
