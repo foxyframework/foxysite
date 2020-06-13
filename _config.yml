@@ -1,7 +1,9 @@
 theme: jekyll-theme-cayman
 
-# Name of website
 title: Foxy PHP Framework
 
-# Short description of your site
+logo: assets/img/logo.png
+
+show_downloads: true
+
 description: Small php framework for rapid web development
