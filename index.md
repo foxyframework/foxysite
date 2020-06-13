@@ -1,36 +1,14 @@
-## Welcome to GitHub Pages
+## Light as a feather
 
-You can use the [editor on GitHub](https://github.com/foxyframework/foxysite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Foxy weighs very little, the entire package once uploaded to your server is only 916Kb.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Extend the code
 
-### Markdown
+Foxy allows you to create the pages you want but also extend the functionality with small pieces of code called modules and plugins.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Internationalization
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/foxyframework/foxysite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Foxy allows you to create files with the translation of the text strings that you have in your application.
 
 ### Support or Contact
 
