@@ -4,6 +4,7 @@ title: Foxy PHP Framework
 
 logo: icon264.png
 
+github:
 repository_url: https://github.com/foxyframework/foxy
 zip_url: https://github.com/foxyframework/foxy/zipball/master
 tar_url: https://github.com/foxyframework/foxy/tarball/master
